@@ -1,4 +1,6 @@
-## Webappick Plugin Tracker
+## Plugin Tracker
+
+Track your wordpress plugin.
 
 #### Installation
 ``` Install
